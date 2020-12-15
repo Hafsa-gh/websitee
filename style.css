@@ -1,0 +1,264 @@
+/* one */
+
+.one {
+    background-color: #316dc3;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+ }
+  
+ i {
+    color: white;
+    padding: 8px;
+ }
+ 
+ .para{
+     color:white;
+     font-size: 16px;
+     font-weight: 600;
+ }
+ 
+ .btn{
+     background-color: rgb(240, 238, 238)  !important;
+     color: rgb(90, 87, 87)  !important;
+     width: 74px;
+     margin-top: 5px;
+ }
+
+  .icons , .para {
+    padding-top: 10px;
+}
+
+/* two */
+
+.navbar {
+    height: 75px;
+}
+
+.nav-link {
+    color: black  !important;
+    font-size: 14px;
+    box-sizing: content-box;
+    padding: 6px 20px 6px 20px;
+}
+
+.nav-link:hover {
+    background-color: #316dc3;
+    border-radius: 22px;
+    color: whitesmoke  !important;
+}
+
+.home {
+    color: white  !important;
+    background-color: #316dc3;
+    border-radius: 22px;
+    font-weight: 600;
+}
+
+.dropdown-item:hover {
+    background-color: #316dc3;
+    color: whitesmoke;
+}
+
+.dropdown-item {
+    font-size: 14px;
+}
+
+.nav-item {
+    padding: 12px;
+}
+
+.navbar-brand {
+    padding-left: 30px;
+}
+
+
+
+/* three */
+
+
+marquee{
+    background-color:#316dc3;
+    color: white;
+    padding: 2px;
+    font-weight: 600;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+}
+
+.green{
+    color: greenyellow;
+}
+
+.blue{
+    color:rgb(241, 134, 12);
+}
+
+/* four */
+
+.four{
+    background-color: #f7f8fa;
+    padding-top: 5%;
+}
+ 
+.p-four , .p-six , .p-seven{
+   text-align: center;
+   font-weight: bold;
+   font-size: 40px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   background: linear-gradient( to right, #5ce763, #2e82b3 ,#4a9e47 ,#41eed7) ;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+
+.paragraph{
+    padding-right:120px ;
+    padding-left:120px ;
+    font-size: 17px;
+    color: rgb(153, 149, 149);
+    text-align: justify;
+    word-spacing: 3px;   
+}
+
+.hr-one , .hr-two {
+    width: 8%;
+    border: 1px solid rgb(167, 167, 167);
+}
+
+/* Five */
+
+.five{
+    background-color: #2755e9; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.number{
+    font-size: 45px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: 500;
+}
+
+.a , .b , .c , .d {
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+    margin-top: 2%;
+    padding: 30px;
+}
+
+ .greeny{
+   color: #00ff00;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 16px;
+   font-weight: 600;
+ }
+
+ /* six */
+
+ .six{
+    background-color:#f7f8fa;
+    padding-top: 5%;
+    height: 850px;
+ }
+
+.row1 , .row2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.box1 , .box2 , .box3{
+   background-color: white;
+   height: 180px;
+   width: 300px;
+   padding-top: 35px;
+   text-align: center;
+   box-shadow: 4px 3px 4px 2px rgb(182, 182, 182);
+   border-bottom-right-radius: 30px;
+   border-top-right-radius: 30px;
+   border-left: 5px solid rgb(7, 119, 100);
+   
+}
+
+.box4 , .box5 , .box6{
+    background-color: white;
+    height: 180px;
+    width: 300px;
+    padding-top: 35px;
+    text-align: center;
+    box-shadow: 4px 3px 4px 2px rgb(182, 182, 182);
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    border-left: 5px solid rgb(7, 119, 100);
+ }
+
+h5 {
+    color: rgb(77, 77, 77);
+    padding: 8px;
+    letter-spacing: 2px;
+
+}
+
+/* seven */
+
+.seven {
+    background-color: #f7f8fa;
+    padding-top: 5%;
+
+}
+
+.images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-bottom: 8%;
+}
+
+/* eight */
+.eight {
+    background-color: #25272e;
+    color: gray;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+h5 {
+    color: whitesmoke;
+    font-weight: 700px;
+    font-size: 20px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.hr-three {
+    border: 1px solid green;
+}
+
+.social {
+    background-color: #316dc3;
+    padding: 12px;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+
+.white-icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.green-icons {
+    list-style-type: none;
+    padding: 4px;
+}
